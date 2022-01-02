@@ -1,4 +1,5 @@
-function sorteio() {
+function sorteio()
+{
     const min = document.getElementById('inputNumberMin').value;
     const max = document.getElementById('inputNumberMax').value;
 
